@@ -6,23 +6,29 @@
     box-sizing: border-box;
 }
 
+
 body {
-    background: #9CA5C6;
     display: flex;
-    font-family: Poppins;
     align-items: center;
     justify-content: center;
+    background: #9CA5C6;
+    font-family: Poppins;
     min-height: 100vh;
-
     border: 0;
+
+
 }
 
 .container {
+    
+  
+    
     background-color: white;
     border-radius: 5px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     width: 450px;
     max-width: 100%;
+    
 }
 
 .header {
