@@ -1,1 +1,1 @@
-Validação de formulário usando APENAS vanila JS.
+Validação de formulário usando APENAS HTML, CSS e vanila JS.
